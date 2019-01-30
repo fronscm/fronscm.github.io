@@ -10,4 +10,5 @@
 ## TMS基础设置
 
 * [如何往TMS中添加一个机构（站点、分公司）](tms-ji-chu-she-zhi/ru-he-wang-tms-zhong-tian-jia-yi-ge-ji-gou-zhan-dian-fen-gong-si.md)
+* [如何使用高拍仪](tms-ji-chu-she-zhi/ru-he-shi-yong-gao-pai-yi.md)
 
