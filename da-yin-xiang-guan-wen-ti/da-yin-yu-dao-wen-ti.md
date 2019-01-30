@@ -8,19 +8,19 @@ description: 打印电脑上的表格、word文档正常，但无法打印系统
 
 1.[点击此处下载打印控件](https://www.fron.net/print/install_lodop32.exe)
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 2.双击打开上述安装文件，后面不用做任何更改，全部默认选项，选择“是”或者“确定”，然后点击“NEXT”
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
 3.出现启动界面后等待软件启动
 
-![](../.gitbook/assets/image%20%283%29.png)
-
 ![](../.gitbook/assets/image%20%285%29.png)
+
+![](../.gitbook/assets/image%20%283%29.png)
 
 4.打开谷歌浏览器（其他浏览器可能不行），点击“刷新”按钮，再点击打印即可
 
