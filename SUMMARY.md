@@ -1,6 +1,6 @@
 # Table of contents
 
-* [帮助中心](README.md)
+* [公司简介](README.md)
 
 ## 打印相关问题
 
