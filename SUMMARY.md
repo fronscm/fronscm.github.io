@@ -12,3 +12,8 @@
 * [如何往TMS中添加一个机构（站点、分公司）](tms-ji-chu-she-zhi/ru-he-wang-tms-zhong-tian-jia-yi-ge-ji-gou-zhan-dian-fen-gong-si.md)
 * [如何使用高拍仪](tms-ji-chu-she-zhi/ru-he-shi-yong-gao-pai-yi.md)
 
+## CRM相关
+
+* [CRM系统简介](crm-xiang-guan/crm-xi-tong-jian-jie.md)
+* [CRM质量事件@功能](crm-xiang-guan/crm-zhi-liang-shi-jian-gong-neng.md)
+
