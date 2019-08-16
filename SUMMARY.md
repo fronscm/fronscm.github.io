@@ -16,4 +16,5 @@
 
 * [CRM系统简介](crm-xiang-guan/crm-xi-tong-jian-jie.md)
 * [CRM质量事件@功能](crm-xiang-guan/crm-zhi-liang-shi-jian-gong-neng.md)
+* [新增或回复CRM时无法上传图片？](crm-xiang-guan/xin-zeng-huo-hui-fu-crm-shi-wu-fa-shang-chuan-tu-pian.md)
 
